@@ -1,1 +1,1 @@
-# Laravel QR Code Geneartion Example 
+# Laravel QR Code Generation Example 
